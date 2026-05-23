@@ -29,5 +29,9 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## Live Demo
+
+[https://perfumeiq-ai.streamlit.app](https://perfumeiq-ai-5xoqz6oxdsz3dcfb45ggpj.streamlit.app/)
+
 ## Author
 Chizoba Obiakor
