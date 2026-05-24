@@ -1,0 +1,200 @@
+Date,Customer_Name,Customer_Type,Perfume_Name,Category,Bottle_Size (ML),Qty_Sold (Pcs),Cost_Price (N),Selling_Price (N),Sales_Type,Preferred_Notes,Budget_Level,Gender_Target
+23-Sep,Philo,New,Sugar Baby,Sweet,3,12,2640,3600,Wholesale,Sweet Vanilla,Affordable,Female
+23-Sep,Ekine,New,Pure Seduction,Fruity Floral,3,3,660,1000,Wholesale,Fruity Floral,Mid-Range,Female
+23-Sep,Victoria Phed,New,Pure Seduction,Fruity Floral,3,6,1320,1800,Wholesale,Fruity Floral,Mid-Range,Female
+23-Oct,Blessing Kenneth,New,Royal Black,Oud,6,41,16750,21500,Wholesale,Fresh,Mid-Range,Unisex
+23-Oct,Philo,Returning,Pink Chiffon,Sweet,3,24,5280,7000,Wholesale,Floral Sweet,Luxury,Female
+23-Oct,Chioma Chukwu,New,Sugar Baby,Sweet,3,48,10320,13200,Wholesale,Sweet Vanilla,Affordable,Female
+23-Oct,Blessing Kenneth,Returning,Pure Seduction,Fruity Floral,6,30,11680,15000,Wholesale,Fruity Floral,Mid-Range,Female
+23-Oct,Mrs Sarah,New,Sugar Baby,Sweet,3,3,660,1000,Wholesale,Sweet Vanilla,Affordable,Female
+23-Oct,Christian Akpan,New,Sugar Baby,Sweet,10,1,830,1500,Retail,Sweet Vanilla,Affordable,Female
+23-Oct,Mr Brown,New,Sugar Baby,Sweet,3,12,2640,3600,Wholesale,Sweet Vanilla,Affordable,Female
+23-Oct,Favour Anyim,New,Sugar Baby,Sweet,3,24,5280,7000,Wholesale,Sweet Vanilla,Affordable,Female
+23-Oct,Blessing Kenneth,Returning,Pure Seduction,Fruity Floral,6,30,11680,15000,Wholesale,Fruity Floral,Mid-Range,Female
+23-Oct,Philo,Returning,Pure Seduction,Fruity Floral,3,3,660,1000,Wholesale,Fruity Floral,Mid-Range,Female
+23-Oct,Philo,Returning,Sugar Baby,Sweet,3,12,2640,3600,Wholesale,Sweet Vanilla,Affordable,Female
+23-Oct,Mrs Oladipo,New,Pink Chiffon,Sweet,3,3,660,1000,Wholesale,Floral Sweet,Luxury,Female
+23-Oct,Auntie Uche,New,Lord,Woody,8,1,725,1000,Retail,Fresh,Mid-Range,Unisex
+23-Oct,Godfrey,New,Lord,Woody,3,12,2640,3600,Wholesale,Fresh,Mid-Range,Unisex
+23-Oct,Chinwe Ozoh,New,Sugar Baby,Sweet,12,1,830,1200,Retail,Sweet Vanilla,Affordable,Female
+23-Oct,Mrs Mbegbu,New,Signature,Floral,30,1,2100,3500,Retail,Fresh,Mid-Range,Unisex
+23-Oct,Mrs Mbegbu,New,Pure Seduction,Fruity Floral,6,3,1200,2000,Retail,Fruity Floral,Mid-Range,Female
+23-Oct,Philo,Returning,Sugar Baby,Sweet,3,12,2640,3600,Wholesale,Sweet Vanilla,Affordable,Female
+23-Oct,Mrs Lewis,New,Sugar Baby,Sweet,3,24,5280,7000,Wholesale,Sweet Vanilla,Affordable,Female
+23-Oct,Mrs Lewis,New,Signature,Floral,6,24,10800,13200,Wholesale,Fresh,Mid-Range,Unisex
+23-Oct,Mrs Lewis,New,Royal Black,Oud,15,1,1000,1500,Wholesale,Fresh,Mid-Range,Unisex
+23-Oct,Mrs Lewis,New,Pink Chiffon,Sweet,20,1,1850,2500,Wholesale,Floral Sweet,Luxury,Female
+23-Oct,Mrs Lewis,New,Pure Seduction,Floral,30,1,2100,3500,Wholesale,Fruity Floral,Mid-Range,Female
+23-Nov,Philo,Returning,Royal Black,Oud,3,6,1400,2000,Wholesale,Fresh,Mid-Range,Unisex
+23-Nov,Mrs Oladipo,Returning,Sugar Baby,Sweet,3,3,660,1000,Wholesale,Sweet Vanilla,Affordable,Female
+23-Nov,Ekine,Returning,Sugar Baby,Sweet,3,6,1400,2000,Wholesale,Sweet Vanilla,Affordable,Female
+23-Nov,Miracle Anyim,New,Pure Seduction,Fruity Floral,3,14,2760,4200,Wholesale,Fruity Floral,Mid-Range,Female
+23-Nov,Godfrey,Returning,Pure Seduction,Floral,12,1,925,1500,Retail,Fruity Floral,Mid-Range,Female
+23-Nov,Mrs Helen Akpi,New,Signature,Floral,3,12,2800,4000,Wholesale,Fresh,Mid-Range,Unisex
+23-Nov,Mrs Helen Akpi,New,Sugar Baby,Sweet,6,6,2400,4000,Wholesale,Sweet Vanilla,Affordable,Female
+23-Nov,Chinwendu,Returning,Sugar Baby,Sweet,3,3,612,1000,Wholesale,Sweet Vanilla,Affordable,Female
+23-Nov,Kelechi,New,Pure Seduction,Fruity Floral,3,3,612,1000,Wholesale,Fruity Floral,Mid-Range,Female
+23-Nov,Success Obehi,New,Sugar Baby,Sweet,3,15,3060,4500,Wholesale,Sweet Vanilla,Affordable,Female
+23-Nov,Favour Anyim,Returning,Happiness,Woody,6,6,2500,4800,Wholesale,Fresh,Mid-Range,Unisex
+23-Nov,Glory Emmanuel,New,Musk Al Tahara,Musky,6,3,1407,2400,Wholesale,Fresh,Mid-Range,Unisex
+23-Nov,Chinwe Ozoh,Returning,Sugar Baby,Sweet,12,2,1618,3000,Retail,Sweet Vanilla,Affordable,Female
+23-Nov,Aniebet,New,Sugar Baby,Sweet,12,1,809,1500,Retail,Sweet Vanilla,Affordable,Female
+23-Nov,Aniebet,New,Royal Black,Oud,12,1,1000,1500,Retail,Fresh,Mid-Range,Unisex
+23-Nov,Mrs Omosigho,New,Sugar Baby,Sweet,30,1,2016,4000,Retail,Sweet Vanilla,Affordable,Female
+23-Nov,Mrs Angela,New,Sugar Baby,Sweet,30,1,2016,4000,Retail,Sweet Vanilla,Affordable,Female
+23-Nov,Joy,New,Sugar Baby,Sweet,12,2,1618,3000,Retail,Sweet Vanilla,Affordable,Female
+24-Dec,Philo,Returning,Sugar Baby,Sweet,3,12,2448,3600,Wholesale,Sweet Vanilla,Affordable,Female
+23-Dec,Lara,New,Sugar Baby,Sweet,20,1,1500,2500,Retail,Sweet Vanilla,Affordable,Female
+23-Dec,Mr Brown,Returning,Pure Seduction,Fruity Floral,3,24,4896,7200,Wholesale,Fruity Floral,Mid-Range,Female
+23-Dec,Mrs Oladipo,Returning,Pure Seduction,Fruity Floral,3,3,612,1000,Wholesale,Fruity Floral,Mid-Range,Female
+23-Dec,Auntie Uche,Returning,Sugar Baby,Sweet,6,1,400,1000,Retail,Sweet Vanilla,Affordable,Female
+23-Dec,Ataejit's Mum,New,Sugar Baby,Sweet,15,2,2568,5000,Retail,Sweet Vanilla,Affordable,Female
+23-Dec,Chioma Chukwu,Returning,Sugar Baby,Sweet,3,48,9792,14400,Wholesale,Sweet Vanilla,Affordable,Female
+23-Dec,Mickel's Mum,New,Strawberry,Sweet,15,3,3852,6600,Retail,Fresh,Mid-Range,Unisex
+23-Dec,Mrs Mbegbu,Returning,Signature,Floral,30,1,2516,4000,Retail,Fresh,Mid-Range,Unisex
+23-Dec,Mrs Mbegbu,Returning,Pure Seduction,Floral,20,1,1500,2500,Retail,Fruity Floral,Mid-Range,Female
+23-Dec,Mrs Gemma,New,Sugar Baby,Sweet,15,1,1300,2500,Retail,Sweet Vanilla,Affordable,Female
+23-Dec,Godfrey,Returning,Sugar Baby,Sweet,12,1,810,1700,Retail,Sweet Vanilla,Affordable,Female
+24-Jan,Ekine,Returning,Sugar Baby,Sweet,3,6,1320,2000,Wholesale,Sweet Vanilla,Affordable,Female
+24-Jan,Mrs Lydia Inimgba,New,Royal Black,Oud,3,12,2448,4000,Wholesale,Fresh,Mid-Range,Unisex
+24-Jan,Kelechi,Returning,Sugar Baby,Sweet,3,4,1080,1500,Wholesale,Sweet Vanilla,Affordable,Female
+24-Jan,Mrs Chinyere Jegede,New,Happiness,Woody,3,6,1620,2000,Wholesale,Fresh,Mid-Range,Unisex
+24-Jan,Philo,Returning,Happiness,Woody,3,12,2448,4000,Wholesale,Fresh,Mid-Range,Unisex
+24-Jan,Mrs Sarah,Returning,Sugar Baby,Sweet,3,6,1620,2000,Wholesale,Sweet Vanilla,Affordable,Female
+24-Jan,RIS Driver,New,Happiness,Woody,6,1,399,1000,Retail,Fresh,Mid-Range,Unisex
+24-Jan,Chidinma Security,New,Happiness,Woody,6,2,798,2000,Retail,Fresh,Mid-Range,Unisex
+24-Jan,Love Okeke,New,Signature,Floral,3,6,1620,2000,Wholesale,Fresh,Mid-Range,Unisex
+24-Feb,Godfrey,Returning,Sugar Baby,Sweet,3,12,2448,4500,Wholesale,Sweet Vanilla,Affordable,Female
+24-Feb,Philo,Returning,Sugar Baby,Sweet,3,12,2820,4500,Wholesale,Sweet Vanilla,Affordable,Female
+24-Feb,Glory Emmanuel,Returning,Signature,Floral,30,1,2430,4500,Retail,Fresh,Mid-Range,Unisex
+24-Feb,Glory Udofia,New,Sugar Baby,Sweet,30,1,2350,4500,Retail,Sweet Vanilla,Affordable,Female
+24-Feb,Chioma Chukwu,Returning,Sugar Baby,Sweet,3,36,8136,13500,Wholesale,Sweet Vanilla,Affordable,Female
+24-Feb,Judith Ovuede,New,Signature,Floral,20,2,3400,6000,Retail,Fresh,Mid-Range,Unisex
+24-Feb,Christian Akpan,Returning,Sugar Baby,Sweet,15,1,1200,3000,Retail,Sweet Vanilla,Affordable,Female
+24-Feb,Mr Micah,New,Lord,Oud,6,1,427,1073,Retail,Fresh,Mid-Range,Unisex
+24-Mar,Faith Felix,New,Sugar Baby,Sweet,15,2,2500,4400,Wholesale,Sweet Vanilla,Affordable,Female
+24-Mar,Auntie Uche,Returning,Lord,Oud,6,1,540,1000,Retail,Fresh,Mid-Range,Unisex
+24-Mar,Mr Micah,Returning,Happiness,Woody,6,1,540,1200,Retail,Fresh,Mid-Range,Unisex
+24-Mar,Mrs Lydia Inimgba,Returning,Sugar Baby,Sweet,3,12,2820,5400,Wholesale,Sweet Vanilla,Affordable,Female
+24-Mar,Mr Chibueze,New,Sugar Baby,Sweet,15,1,1039,2700,Retail,Sweet Vanilla,Affordable,Female
+24-Mar,Christian Akpan,Returning,Sugar Baby,Sweet,15,1,1560,3000,Retail,Sweet Vanilla,Affordable,Female
+24-Mar,Faith Felix,Returning,Sugar Baby,Sweet,15,3,3213,6600,Wholesale,Sweet Vanilla,Affordable,Female
+24-Mar,Philo,Returning,Sugar Baby,Sweet,3,12,2820,5000,Wholesale,Sweet Vanilla,Affordable,Female
+24-Mar,Mr Chibueze,Returning,Sugar Baby,Sweet,15,1,1039,2700,Retail,Sweet Vanilla,Affordable,Female
+24-Apr,Victoria Phed,Returning,Pure Seduction,Fruity Floral,3,12,2820,4800,Wholesale,Fruity Floral,Mid-Range,Female
+24-Apr,Mr Micah,Returning,Happiness,Woody,6,1,540,1200,Retail,Fresh,Mid-Range,Unisex
+24-Apr,Godfrey,Returning,Sugar Baby,Sweet,3,12,2820,5000,Wholesale,Sweet Vanilla,Affordable,Female
+24-Apr,Mrs Mbegbu,Returning,Signature,Floral,50,1,2820,7500,Retail,Fresh,Mid-Range,Unisex
+24-May,Favour Anyim,Returning,Sugar Baby,Sweet,3,12,2820,5000,Wholesale,Sweet Vanilla,Affordable,Female
+24-May,Mrs Lydia Inimgba,Returning,Sugar Baby,Sweet,3,12,2820,5000,Wholesale,Sweet Vanilla,Affordable,Female
+24-May,Chinwendu,Returning,Royal Black,Oud,3,12,2820,5000,Wholesale,Fresh,Mid-Range,Unisex
+24-May,Mr Chibueze,Returning,Sugar Baby,Sweet,15,1,1039,2400,Retail,Sweet Vanilla,Affordable,Female
+24-May,Faith Felix,Returning,Sugar Baby,Sweet,15,3,4100,5700,Wholesale,Sweet Vanilla,Affordable,Female
+24-May,Mrs Chioma Ekaette,New,Pure Seduction,Fruity Floral,3,24,5640,10000,Wholesale,Fruity Floral,Mid-Range,Female
+24-May,Christian Akpan,Returning,Sugar Baby,Sweet,30,1,2600,4500,Retail,Sweet Vanilla,Affordable,Female
+24-May,Chinwe Ozoh,Returning,Sugar Baby,Sweet,12,1,1100,2000,Retail,Sweet Vanilla,Affordable,Female
+24-May,Glory Udofia,Returning,Sugar Baby,Sweet,50,1,3250,6000,Retail,Sweet Vanilla,Affordable,Female
+24-May,Sim Bivan,New,Pure Seduction,Fruity Floral,3,12,3200,5000,Wholesale,Fruity Floral,Mid-Range,Female
+24-May,Aniebet,Returning,Sugar Baby,Sweet,12,2,2200,4000,Retail,Sweet Vanilla,Affordable,Female
+24-May,Chinwendu,Returning,Royal Black,Woody,3,12,3510,5000,Wholesale,Fresh,Mid-Range,Unisex
+24-May,Wisdom Eseme,New,Signature,Floral,3,12,3300,5000,Wholesale,Fresh,Mid-Range,Unisex
+24-May,Faith Felix,Returning,Sugar Baby,Sweet,20,2,4000,5400,Wholesale,Sweet Vanilla,Affordable,Female
+24-May,Ada Otonnah,New,Sugar Baby,Sweet,6,48,39200,9600,Wholesale,Sweet Vanilla,Affordable,Female
+24-May,Ada Otonnah,New,Tom Ford Oud Wood,Oud,10,30,48000,9600,Wholesale,Oud Woody,Luxury,Male
+24-Jun,Chioma Chukwu,Returning,Pure Seduction,Fruity Floral,3,40,12160,16000,Wholesale,Fruity Floral,Mid-Range,Female
+24-Jun,Mr Brown,Returning,Sugar Baby,Sweet,50,2,6500,12000,Retail,Sweet Vanilla,Affordable,Female
+24-Jun,Chinwendu,Returning,Sugar Baby,Sweet,3,12,3300,5000,Wholesale,Sweet Vanilla,Affordable,Female
+24-Jun,Mr Brown,Returning,Sugar Baby,Sweet,50,1,3250,6000,Retail,Sweet Vanilla,Affordable,Female
+24-Jul,Chinwendu,Returning,Sugar Baby,Sweet,3,12,3490,5000,Wholesale,Sweet Vanilla,Affordable,Female
+24-Jul,Favour Anyim,Returning,Pure Seduction,Fruity Floral,50,1,4000,6500,Retail,Fruity Floral,Mid-Range,Female
+24-Jul,Oge NCCF,New,Pure Seduction,Fruity Floral,3,12,3510,5000,Wholesale,Fruity Floral,Mid-Range,Female
+24-Jul,Oge NCCF,New,Signature,Floral,6,12,5820,9600,Wholesale,Fresh,Mid-Range,Unisex
+24-Jul,Favour Anyim,Returning,Sugar Baby,Sweet,30,1,2400,5000,Retail,Sweet Vanilla,Affordable,Female
+24-Jul,Chinwendu,Returning,Royal Black,Oud,3,12,3510,5000,Wholesale,Fresh,Mid-Range,Unisex
+24-Jul,Marvel's Mum,New,Signature,Floral,30,1,2400,5000,Retail,Fresh,Mid-Range,Unisex
+24-Jul,Alero Bawo,New,Sugar Baby,Sweet,20,1,1800,3500,Retail,Sweet Vanilla,Affordable,Female
+24-Jul,Matron,New,Signature,Floral,30,1,2400,5000,Retail,Fresh,Mid-Range,Unisex
+24-Jul,Miracle Anyim,Returning,Sugar Baby,Sweet,30,1,2400,5000,Retail,Sweet Vanilla,Affordable,Female
+24-Jul,Victoria Phed,Returning,Sugar Baby,Sweet,3,12,3200,5000,Wholesale,Sweet Vanilla,Affordable,Female
+24-Aug,Chioma Chukwu,Returning,Pink Chiffon,Sweet,3,24,7020,10000,Wholesale,Floral Sweet,Luxury,Female
+24-Aug,Sim Bivan,Returning,Sugar Baby,Sweet,30,1,2400,5000,Retail,Sweet Vanilla,Affordable,Female
+24-Aug,Faith Felix,Returning,Pure Seduction,Fruity Floral,15,7,9569,13300,Wholesale,Fruity Floral,Mid-Range,Female
+24-Aug,Mrs Oladipo,Returning,Sugar Baby,Sweet,3,12,3200,5000,Wholesale,Sweet Vanilla,Affordable,Female
+24-Aug,Chinwendu,Returning,Sugar Baby,Sweet,3,12,3510,5000,Wholesale,Sweet Vanilla,Affordable,Female
+24-Aug,Godfrey,Returning,Pure Seduction,Floral,3,12,3000,5000,Wholesale,Fruity Floral,Mid-Range,Female
+24-Aug,Christian Akpan,Returning,Sugar Baby,Sweet,30,2,4800,9000,Retail,Sweet Vanilla,Affordable,Female
+26-Mar,Glory Emmanuel,Returning,SAVAGE DIOR,Male Fragrance,15,5,5869,10091,Wholesale,Fresh Spicy,Luxury,Male
+26-Mar,Mrs Chinyere Jegede,Returning,TOMFORD OUD WOOD,Male Fragrance,15,5,8061,10498,Wholesale,Woody Oud,Luxury,Male
+26-Apr,Lara,Returning,CREED AVENTUS,Male Fragrance,6,6,8906,11528,Retail,Fruity Smoky,Luxury,Male
+26-Apr,Judith Ovuede,New,INVICTUS,Male Fragrance,30,3,8253,10136,Wholesale,Fresh Citrus,Luxury,Male
+26-Mar,Glory Emmanuel,Returning,DAVID BACKUM,Male Fragrance,3,9,7810,10358,Wholesale,Fresh Woody,Affordable,Male
+26-Mar,Glory Emmanuel,New,212 MEN,Male Fragrance,3,4,8294,12373,Wholesale,Fresh Citrus,Mid-Range,Male
+26-Mar,Mrs Omosigho,New,STRONGER WITH YOU,Male Fragrance,6,10,5751,8209,Retail,Warm Vanilla,Luxury,Male
+26-Mar,Glory Emmanuel,New,ARMANI CODE,Male Fragrance,12,1,5940,7965,Wholesale,Spicy Oriental,Luxury,Male
+26-Mar,Sim Bivan,New,212 MEN,Male Fragrance,3,9,6454,10366,Wholesale,Fresh Citrus,Mid-Range,Male
+26-Mar,Christian Akpan,New,STRONGER WITH YOU,Male Fragrance,12,3,6167,10518,Retail,Warm Vanilla,Luxury,Male
+26-May,Matron,New,TOMFORD OUD WOOD,Male Fragrance,3,4,5782,9232,Wholesale,Woody Oud,Luxury,Male
+26-Jan,Ada Otonnah,New,HUGO BOSS,Male Fragrance,30,1,7956,9520,Retail,Fresh Woody,Mid-Range,Male
+26-Feb,Marvel's Mum,Returning,BLACK OUD,Male Fragrance,6,5,5651,9062,Wholesale,Oud Woody,Luxury,Male
+26-Jan,Success Obehi,Returning,STRONGER WITH YOU,Male Fragrance,15,4,8435,12678,Retail,Warm Vanilla,Luxury,Male
+26-Mar,Lara,New,FAHRENHEIT,Male Fragrance,10,5,8603,10552,Retail,Woody Leather,Luxury,Male
+26-Mar,Mrs Chioma Ekaette,Returning,BLACK OUD,Male Fragrance,6,8,6689,8198,Retail,Oud Woody,Luxury,Male
+26-Jan,Mrs Gemma,New,DUNHILL,Male Fragrance,30,8,8969,10972,Retail,Woody Spicy,Luxury,Male
+26-Apr,Aniebet,Returning,ARMANI CODE,Male Fragrance,30,5,6783,11783,Wholesale,Spicy Oriental,Luxury,Male
+26-Jan,Mrs Angela,New,INVICTUS,Male Fragrance,10,6,5684,10189,Wholesale,Fresh Citrus,Luxury,Male
+26-May,Mr Micah,New,POLO SPORT,Male Fragrance,12,1,5527,8555,Wholesale,Fresh Aquatic,Mid-Range,Male
+26-Mar,Judith Ovuede,New,POLO SPORT,Male Fragrance,30,8,6052,7709,Wholesale,Fresh Aquatic,Mid-Range,Male
+26-Jan,Success Obehi,Returning,CREED AVENTUS,Male Fragrance,6,5,7719,11448,Retail,Fruity Smoky,Luxury,Male
+26-Mar,Mrs Lewis,Returning,HUGO BOSS,Male Fragrance,30,10,5621,9397,Wholesale,Fresh Woody,Mid-Range,Male
+26-Jan,Mrs Oladipo,New,HUGO BOSS,Male Fragrance,30,3,5527,9286,Retail,Fresh Woody,Mid-Range,Male
+26-Apr,Mrs Sarah,Returning,DUNHILL,Male Fragrance,12,3,7148,10246,Retail,Woody Spicy,Luxury,Male
+26-Apr,Ataejit's Mum,Returning,ARMANI CODE,Male Fragrance,10,6,7083,9668,Retail,Spicy Oriental,Luxury,Male
+26-Feb,Mrs Mbegbu,Returning,ARMANI CODE,Male Fragrance,30,10,7749,11028,Retail,Spicy Oriental,Luxury,Male
+26-Apr,Oge NCCF,Returning,BLACK OUD,Male Fragrance,12,3,6729,10022,Retail,Oud Woody,Luxury,Male
+26-Jan,Faith Felix,New,1 MILLION,Male Fragrance,30,10,8513,10380,Wholesale,Spicy Sweet,Luxury,Male
+26-Mar,Mrs Lydia Inimgba,Returning,INVICTUS,Male Fragrance,6,2,7533,12247,Wholesale,Fresh Citrus,Luxury,Male
+26-Apr,Mr Chibueze,New,COOL WATER,Male Fragrance,3,7,7944,9776,Retail,Fresh Aquatic,Mid-Range,Male
+26-Jan,Joy,Returning,SAVAGE DIOR,Male Fragrance,3,5,8265,11217,Retail,Fresh Spicy,Luxury,Male
+26-Feb,Aniebet,Returning,DAVID BACKUM,Male Fragrance,6,7,5674,10392,Wholesale,Fresh Woody,Affordable,Male
+26-Feb,Mrs Chioma Ekaette,New,INVICTUS,Male Fragrance,30,2,6382,8431,Retail,Fresh Citrus,Luxury,Male
+26-Apr,Christian Akpan,New,SAVAGE DIOR,Male Fragrance,10,1,6683,10529,Wholesale,Fresh Spicy,Luxury,Male
+26-Mar,Ada Otonnah,New,ARMANI CODE,Male Fragrance,20,2,7074,8588,Wholesale,Spicy Oriental,Luxury,Male
+26-Apr,Chidinma Security,New,SAVAGE DIOR,Male Fragrance,20,1,5666,7393,Retail,Fresh Spicy,Luxury,Male
+26-Apr,Mrs Chioma Ekaette,New,HUGO BOSS,Male Fragrance,10,3,8479,12167,Wholesale,Fresh Woody,Mid-Range,Male
+26-Mar,Chioma Chukwu,New,COOL WATER,Male Fragrance,15,7,6990,9618,Wholesale,Fresh Aquatic,Mid-Range,Male
+26-Mar,Mr Brown,New,212 MEN,Male Fragrance,15,8,5569,8721,Wholesale,Fresh Citrus,Mid-Range,Male
+26-Mar,Blessing Kenneth,Returning,212 MEN,Male Fragrance,15,7,8490,12224,Wholesale,Fresh Citrus,Mid-Range,Male
+26-Jan,Mrs Oladipo,Returning,DAVID BACKUM,Male Fragrance,30,8,7368,11083,Retail,Fresh Woody,Affordable,Male
+26-Jan,Mrs Oladipo,Returning,HUGO BOSS,Male Fragrance,15,4,8549,12903,Retail,Fresh Woody,Mid-Range,Male
+26-Feb,Faith Felix,Returning,ARMANI CODE,Male Fragrance,6,8,8670,11243,Retail,Spicy Oriental,Luxury,Male
+26-Apr,Alero Bawo,Returning,CREED AVENTUS,Male Fragrance,30,1,8790,13499,Wholesale,Fruity Smoky,Luxury,Male
+26-Mar,Auntie Uche,Returning,INVICTUS,Male Fragrance,15,4,5880,10525,Wholesale,Fresh Citrus,Luxury,Male
+26-Apr,Mr Brown,Returning,DUNHILL,Male Fragrance,15,8,8587,11041,Wholesale,Woody Spicy,Luxury,Male
+26-Mar,Auntie Uche,New,DAVID BACKUM,Male Fragrance,20,10,5876,9468,Wholesale,Fresh Woody,Affordable,Male
+26-Feb,Miracle Anyim,Returning,DUNHILL,Male Fragrance,12,3,7507,10933,Retail,Woody Spicy,Luxury,Male
+26-Mar,Philo,New,SAVAGE DIOR,Male Fragrance,3,2,5815,10001,Wholesale,Fresh Spicy,Luxury,Male
+26-Apr,RIS Driver,Returning,POLO SPORT,Male Fragrance,6,1,5893,8469,Wholesale,Fresh Aquatic,Mid-Range,Male
+26-Jan,Mr Brown,Returning,1 MILLION,Male Fragrance,10,4,5681,9715,Retail,Spicy Sweet,Luxury,Male
+26-Mar,Marvel's Mum,Returning,SAVAGE DIOR,Male Fragrance,6,10,5949,7961,Retail,Fresh Spicy,Luxury,Male
+26-Apr,Auntie Uche,New,COOL WATER,Male Fragrance,15,4,6801,9280,Retail,Fresh Aquatic,Mid-Range,Male
+26-Feb,Ada Otonnah,New,DAVID BACKUM,Male Fragrance,20,7,8815,12373,Retail,Fresh Woody,Affordable,Male
+26-Jan,Kelechi,New,CREED AVENTUS,Male Fragrance,20,9,7911,12654,Retail,Fruity Smoky,Luxury,Male
+26-Apr,Mrs Lewis,Returning,STRONGER WITH YOU,Male Fragrance,6,9,6533,11046,Retail,Warm Vanilla,Luxury,Male
+26-Apr,Chidinma Security,New,COOL WATER,Male Fragrance,3,10,8452,10369,Wholesale,Fresh Aquatic,Mid-Range,Male
+26-Mar,Glory Emmanuel,Returning,STRONGER WITH YOU,Male Fragrance,12,10,8942,11616,Wholesale,Warm Vanilla,Luxury,Male
+26-Jan,Chinwendu,New,TOMFORD OUD WOOD,Male Fragrance,15,9,5666,9545,Wholesale,Woody Oud,Luxury,Male
+26-Apr,Mr Chibueze,Returning,FAHRENHEIT,Male Fragrance,15,3,6356,9554,Retail,Woody Leather,Luxury,Male
+26-Feb,Mickel's Mum,New,BLACK OUD,Male Fragrance,10,4,7447,10646,Retail,Oud Woody,Luxury,Male
+26-Jan,Mrs Gemma,Returning,FAHRENHEIT,Male Fragrance,3,4,5804,8258,Retail,Woody Leather,Luxury,Male
+26-Mar,Victoria Phed,New,FAHRENHEIT,Male Fragrance,15,8,6925,9370,Retail,Woody Leather,Luxury,Male
+26-Mar,Sim Bivan,Returning,HUGO BOSS,Male Fragrance,12,4,8533,10948,Wholesale,Fresh Woody,Mid-Range,Male
+26-Mar,Alero Bawo,New,INVICTUS,Male Fragrance,6,4,7603,10070,Retail,Fresh Citrus,Luxury,Male
+26-Mar,Glory Emmanuel,Returning,1 MILLION,Male Fragrance,30,2,7867,12473,Retail,Spicy Sweet,Luxury,Male
+26-Mar,Chinwendu,Returning,SAVAGE DIOR,Male Fragrance,15,1,6266,10169,Wholesale,Fresh Spicy,Luxury,Male
+26-Apr,Oge NCCF,New,HUGO BOSS,Male Fragrance,12,1,6674,8465,Retail,Fresh Woody,Mid-Range,Male
+26-Jan,Marvel's Mum,New,POLO SPORT,Male Fragrance,12,1,7324,11102,Retail,Fresh Aquatic,Mid-Range,Male
+26-Feb,Lara,Returning,INVICTUS,Male Fragrance,12,1,6203,9398,Retail,Fresh Citrus,Luxury,Male
+26-Mar,Philo,Returning,HUGO BOSS,Male Fragrance,12,4,6375,8111,Retail,Fresh Woody,Mid-Range,Male
+26-Feb,Faith Felix,New,BLACK OUD,Male Fragrance,30,3,7833,11028,Wholesale,Oud Woody,Luxury,Male
+26-Feb,Miracle Anyim,Returning,1 MILLION,Male Fragrance,6,5,7276,11268,Retail,Spicy Sweet,Luxury,Male
+26-Apr,Matron,Returning,212 MEN,Male Fragrance,20,7,8627,10770,Retail,Fresh Citrus,Mid-Range,Male
